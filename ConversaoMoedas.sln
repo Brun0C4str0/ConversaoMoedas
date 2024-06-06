@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoMoedas", "ConversaoMoedas.csproj", "{B613C8AE-ECF5-4EFF-AB0A-873C64DC04CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovoConversor", "..\NovoConversor\NovoConversor.csproj", "{D3A450F3-C422-4B20-84E7-E438636619CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B613C8AE-ECF5-4EFF-AB0A-873C64DC04CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B613C8AE-ECF5-4EFF-AB0A-873C64DC04CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B613C8AE-ECF5-4EFF-AB0A-873C64DC04CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B613C8AE-ECF5-4EFF-AB0A-873C64DC04CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A450F3-C422-4B20-84E7-E438636619CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A450F3-C422-4B20-84E7-E438636619CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A450F3-C422-4B20-84E7-E438636619CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A450F3-C422-4B20-84E7-E438636619CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E97254-19A8-40B6-BD0F-2F1C3BD42210}
+	EndGlobalSection
+EndGlobal
